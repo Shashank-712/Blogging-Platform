@@ -22,7 +22,7 @@ A simple and functional **Django-based blogging platform** built as a beginner p
 
 
 ## 📁 Project Structure:
-
+```
 Blogging Platform/
 ├── blog/ # Django app with models, views, urls, templates
 ├── templates/ # HTML templates
@@ -30,7 +30,7 @@ Blogging Platform/
 ├── .env/ # Virtual environment (not tracked)
 ├── manage.py # Django management script
 └── db.sqlite3 # Development database
-
+```
 
 ## ⚙️ Setup Instructions
 
