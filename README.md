@@ -53,8 +53,9 @@ source .env/bin/activate       # On Mac/Linux
 3. Install Dependencies
 ```
 pip install -r requirements.txt
-(If requirements.txt is missing, you can create it with pip freeze > requirements.txt)
+
 ```
+(If requirements.txt is missing, you can create it with pip freeze > requirements.txt)
 4. Run Migrations
 ```
 python manage.py makemigrations
