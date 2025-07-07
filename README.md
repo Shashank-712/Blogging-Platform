@@ -20,7 +20,6 @@ A simple and functional **Django-based blogging platform** built as a beginner p
 - **Frontend:** HTML, CSS, Bootstrap
 - **Database:** SQLite (default for development)
 
----
 
 ## 📁 Project Structure:
 
@@ -32,8 +31,6 @@ Blogging Platform/
 ├── manage.py # Django management script
 └── db.sqlite3 # Development database
 
-
----
 
 ## ⚙️ Setup Instructions
 
