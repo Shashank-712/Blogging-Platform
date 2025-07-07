@@ -63,10 +63,12 @@ python manage.py migrate
 python manage.py runserver
 Visit http://127.0.0.1:8000/ in your browser to use the app.
 ```
-📌 Notes
--All uploaded media will be stored in the media/ folder
--Database is SQLite for development purposes
--Environment variables and secret keys should be stored in .env (excluded via .gitignore)
+## 📌 Notes
+
+- All uploaded media will be stored in the `media/` folder
+- The database used is `SQLite` (suitable for development only)
+- Environment variables and secret keys should be stored in the `.env/` folder (excluded from version control using `.gitignore`)
+
 
 🙌 Author
 Made with 💻 by Shashank Rawat👹
